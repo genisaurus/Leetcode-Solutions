@@ -1,4 +1,4 @@
-package com.russell._205_isomorphic_strings;
+package com.russell._0205_isomorphic_strings;
 
 /*
 Given two strings s and t, determine if they are isomorphic.
